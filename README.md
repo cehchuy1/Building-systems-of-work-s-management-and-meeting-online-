@@ -9,7 +9,7 @@ Không thể phủ nhận những lợi ích mà công nghệ mang lại cho cá
 -Hạn chế tối đa các sai sót liên quan tới con người
 -Tiết kiệm thời gian cho công việc, đặc biệt nhiệm vụ có tính lặp lại
 -Tạo tác phong làm việc chuyên nghiệp
-Đảm bảo sự bảo mật trong lưu trữ dữ liệu
+Đảm bảo sự bảo mật trong lưu trữ dữ liệu.
 
 
 ## Quản lý doanh nghiệp theo hệ thống đem lại lợi ích gì so với quản lý rời rạc?
