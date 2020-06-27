@@ -6,13 +6,17 @@
 Không thể phủ nhận những lợi ích mà công nghệ mang lại cho các doanh nghiệp. Không những giúp giảm thời gian làm việc, mà công việc có kết quả tốt hơn trông thấy. Cụ thể một số lợi ích nổi bật khi lựa chọn ứng dụng công nghệ trong quản trị:
 
 -Xây dựng quy trình phù hợp cho các công việc mục đích của công ty hướng tới thị trường và người tiêu dùng 
+
 -Hạn chế tối đa các sai sót liên quan tới con người
+
 -Tiết kiệm thời gian cho công việc, đặc biệt nhiệm vụ có tính lặp lại
--Tạo tác phong làm việc chuyên nghiệp
-Đảm bảo sự bảo mật trong lưu trữ dữ liệu.
+
+-Tạo tác phong làm việc chuyên nghiệp.
+
+-Đảm bảo sự bảo mật trong lưu trữ dữ liệu.
 
 
-## Quản lý doanh nghiệp theo hệ thống đem lại lợi ích gì so với quản lý rời rạc?
+## Quản lý d anh nghiệp theo hệ thống đem lại lợi ích gì so với quản lý rời rạc?
  
 Tính đồng bộ trong việc quản lý và lưu trữ thông tin, dữ liệu
 
