@@ -1,15 +1,15 @@
 ## Welcome to GitHub Pages
 
-xây dựng hệ thống quản lý công việc , meeting online 
--	Nguyên nhân , lý do tại sao chọn thực hiện dự án 
+## Xây dựng hệ thống quản lý công việc , meeting online 
+## 	Nguyên nhân , lý do tại sao chọn thực hiện dự án 
 
-+Không thể phủ nhận những lợi ích mà công nghệ mang lại cho các doanh nghiệp. Không những giúp giảm thời gian làm việc, mà công việc có kết quả tốt hơn trông thấy. Cụ thể một số lợi ích nổi bật khi lựa chọn ứng dụng công nghệ trong quản trị:
+Không thể phủ nhận những lợi ích mà công nghệ mang lại cho các doanh nghiệp. Không những giúp giảm thời gian làm việc, mà công việc có kết quả tốt hơn trông thấy. Cụ thể một số lợi ích nổi bật khi lựa chọn ứng dụng công nghệ trong quản trị:
 
-+Xây dựng quy trình phù hợp cho các công việc mục đích của công ty hướng tới thị trường và người tiêu dùng 
-+Hạn chế tối đa các sai sót liên quan tới con người
-+Tiết kiệm thời gian cho công việc, đặc biệt nhiệm vụ có tính lặp lại
-+Tạo tác phong làm việc chuyên nghiệp
-+Đảm bảo sự bảo mật trong lưu trữ dữ liệu
+-Xây dựng quy trình phù hợp cho các công việc mục đích của công ty hướng tới thị trường và người tiêu dùng 
+-Hạn chế tối đa các sai sót liên quan tới con người
+-Tiết kiệm thời gian cho công việc, đặc biệt nhiệm vụ có tính lặp lại
+-Tạo tác phong làm việc chuyên nghiệp
+Đảm bảo sự bảo mật trong lưu trữ dữ liệu
 -  Minh chứng bằng các số liệu cụ thể
 Quản lý doanh nghiệp là quá trình cấp lãnh đạo thực hiện hiện công việc cùng các cá nhân, nhóm cũng như với các nguồn lực khác trong doanh nghiệp, bao gồm tài sản, thiết bị, công nghệ, vốn,… nhằm thực hiện sứ mệnh và mục tiêu kinh doanh của doanh nghiệp. Quản lý tốt doanh nghiệp sẽ đem lại lợi ích trên nhiều mặt: lợi ích về tài chính, lợi ích về nhân sự, lợi ích về bán hàng, lợi ích về xây dựng thương hiệu,….
 hệ thống quản lý doanh nghiệp
@@ -49,7 +49,7 @@ Các thao tác tìm kiếm, truy xuất thông tin, dữ liệu phục vụ côn
 Tất cả những yếu tố này là những yếu tố giúp doanh nghiệp nâng cao năng suất làm việc cho nhân viên của mình, từ đó, nâng cao năng lực cạnh tranh của doanh nghiệp trên thị trường.
 
 Nhờ những lợi ích to lớn đem lại, quản lý doanh nghiệp bằng hệ thống đang ngày càng trở thành xu hướng phổ biến, thay thế dần các phần mềm quản lý rời rạc, riêng lẻ mà doanh nghiệp thường sử dụng trước đây. Triển khai và sử dụng hiệu quả việc quản lý bằng hệ thống, doanh nghiệp sẽ nhanh chóng tối ưu được các khoản chi phí, nâng cao năng suất làm việc và đạt được hiệu quả kinh doanh mong muốn
-3/Mục tiêu hướng đến – Tác động đến xã hội.
+## Mục tiêu hướng đến – Tác động đến xã hội.
 
 +Nâng cấp, phát triển hệ thống quản lý  của doanh nghiệp trong tương lai dễ dàng hơn và các chi phí bỏ ra cũng sẽ được sử dụng hiệu quả. Với nhiều sản phẩm hệ thống quản lý  như phần mềm dùng thử, phầm mềm miễn phí, phần mềm thương mại với nhiều giá cả khác biệt, vì thế bắt buộc doanh nghiệp phải hiểu chính mình muốn gì từ hệ thống CNTT, từ đó mới có thể quyết định việc dùng phần mềm mã nguồn mở, phần mềm miễn phí, phần mềm giá rẻ hay phần mềm cao cấp…
 
