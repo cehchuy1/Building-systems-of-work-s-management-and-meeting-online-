@@ -12,12 +12,15 @@ Không thể phủ nhận những lợi ích mà công nghệ mang lại cho cá
 Đảm bảo sự bảo mật trong lưu trữ dữ liệu
 
  ## Quản lý doanh nghiệp theo hệ thống đem lại lợi ích gì so với quản lý rời rạc?
-Tính đồng bộ trong việc quản lý và lưu trữ thông tin, dữ liệu
+ 
+-Tính đồng bộ trong việc quản lý và lưu trữ thông tin, dữ liệu
+
 Nhờ sử dụng chung một cơ sở dữ liệu trong phạm vi toàn doanh nghiệp, có nghĩa mọi bộ phận, phòng ban đều lưu trữ dữ liệu trên một cơ sở dữ liệu chung nhất, vì thế, việc tổng hợp và lưu trữ thông tin trở nên đồng bộ giữa các bộ phận.
 
 Tính đồng bộ này giúp cho doanh nghiệp khắc phục được tình trạng quản lý thông tin rời rạc: các thông tin tài chính chỉ được lưu trữ trên phần mềm kế toán – tài chính, thông tin về nhân sự chỉ được lưu trữ trên phần mềm nhân sự, thông tin khách hàng, bán hàng chỉ được lưu trữ trên phần mềm quản lý bán hàng,…mang về khó khăn cho doanh nghiệp khi cần tổng hợp và tìm kiếm những thông tin cần thiết.
 
-quản lý dữ liệu
+- Quản lý dữ liệu
+
 Nhờ tính đồng bộ trong việc tổng hợp và lưu trữ thông tin, quản lý doanh nghiệp bằng hệ thống sẽ giúp cho lãnh đạo và nhân viên:
 
 Tổng hợp và lưu trữ thông tin trên một hệ thống duy nhất
@@ -30,15 +33,18 @@ Quản lý doanh nghiệp bằng hệ thống sẽ giúp doanh nghiệp loại b
 
 Cụ thể, các chi phí như: chi phí phần mềm do sử dụng nhiều phần mềm riêng lẻ, chi phí đào tạo và tập huấn cho nhân viên, chi phí tối ưu hiệu quả của nhân viên, chi phí do thất thoát kinh doanh,…sẽ được tiết kiệm và cắt giảm một cách tối ưu.
 
-tiết kiệm chi phí cho doanh nghiệp
+-Tiết kiệm chi phí cho doanh nghiệp
+
 Nhờ cung cấp tính năng lưu trữ và tổng hợp thông tin, quản lý doanh nghiệp bằng hệ thống cung cấp các dữ liệu một cách chính xác, giúp giải quyết thông tin và các sự cố nhanh chóng hơn. Đặc biệt, các thông tin liên quan đến tài chính sẽ được quản lý và trình bày một cách chính xác, kịp thời, tránh những thất thoát, sai sót không đáng có.
 
-Nâng cao năng suất làm việc của nhân viên
+-Nâng cao năng suất làm việc của nhân viên
+
 Trong bối cảnh thị trường hiện nay, việc nâng cao năng lực cạnh tranh của doanh nghiệp là điều không thể thiếu nếu không muốn doanh nghiệp của mình tụt lùi lại phía sau. Một trong những cách để nâng năng lực cạnh tranh của doanh nghiệp chính là việc tăng năng suất làm việc của nhân viên, và hệ thống quản lý doanh nghiệp sẽ giúp lãnh đạo thực hiện triệt để mục tiêu này.
 
 Quản lý doanh nghiệp bằng hệ thống cho phép xây dựng một môi trường làm việc hiệu quả, chuyên nghiệp hơn nhờ việc điều phối, cộng tác, chia sẻ các thông tin, dữ liệu giữa các bộ phận trong doanh nghiệp.
 
-gia tăng năng suất làm việc
+-Gia tăng năng suất làm việc
+
 Các thao tác tìm kiếm, truy xuất thông tin, dữ liệu phục vụ công việc được thực hiện nhanh hơn, tiết kiệm thời gian tìm kiếm cho nhân viên. Các dữ liệu về tình hình hoạt động, đặc biệt là tình hình tài chính, kinh doanh, được tổng hợp và cập nhật đầy đủ, liên tục, cho phép lãnh đạo cũng như nhân viên nắm được tình hình của công ty,…
 
 Tất cả những yếu tố này là những yếu tố giúp doanh nghiệp nâng cao năng suất làm việc cho nhân viên của mình, từ đó, nâng cao năng lực cạnh tranh của doanh nghiệp trên thị trường.
