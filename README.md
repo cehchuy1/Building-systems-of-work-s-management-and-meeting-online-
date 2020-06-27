@@ -14,7 +14,7 @@ Không thể phủ nhận những lợi ích mà công nghệ mang lại cho cá
 
 ## Quản lý doanh nghiệp theo hệ thống đem lại lợi ích gì so với quản lý rời rạc?
  
--Tính đồng bộ trong việc quản lý và lưu trữ thông tin, dữ liệu
+Tính đồng bộ trong việc quản lý và lưu trữ thông tin, dữ liệu
 
 Nhờ sử dụng chung một cơ sở dữ liệu trong phạm vi toàn doanh nghiệp, có nghĩa mọi bộ phận, phòng ban đều lưu trữ dữ liệu trên một cơ sở dữ liệu chung nhất, vì thế, việc tổng hợp và lưu trữ thông tin trở nên đồng bộ giữa các bộ phận.
 
