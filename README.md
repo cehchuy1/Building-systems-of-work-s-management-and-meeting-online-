@@ -49,16 +49,15 @@ Nhờ những lợi ích to lớn đem lại, quản lý doanh nghiệp bằng h
 +Nâng cấp, phát triển hệ thống quản lý  của doanh nghiệp trong tương lai dễ dàng hơn và các chi phí bỏ ra cũng sẽ được sử dụng hiệu quả. Với nhiều sản phẩm hệ thống quản lý  như phần mềm dùng thử, phầm mềm miễn phí, phần mềm thương mại với nhiều giá cả khác biệt, vì thế bắt buộc doanh nghiệp phải hiểu chính mình muốn gì từ hệ thống CNTT, từ đó mới có thể quyết định việc dùng phần mềm mã nguồn mở, phần mềm miễn phí, phần mềm giá rẻ hay phần mềm cao cấp…
 
 +cụ thể hơn là sử dụng những công nghệ và dịch vụ Internet để lựa chọn thông tin, kết nối với và chia sẻ nguồn thông tin giữa các doanh nghiệp, khách hàng, nhà cung cấp,…Thông qua hệ thống quản lý của doanh nghiệp , meeting , có thể đưa doanh nghiệp lên tầm cao mới, kinh doanh toàn cầu và thực thi được những chiến lược kinh doanh đạt được hiệu quả cao nhất.
-## Thời gian – Tiến độ thực hiện dự án:
-•	Chuẩn bị dự án:
-	Chọn chủ đề: 1 ngày – 24 giờ - (6-7/5).
-	Lên ý tưởng: 3 ngày – 72 giờ - (7-10/5).
-	Phân công công việc: 1 ngày – 24 giờ - (10-11/5).
-	Chuẩn bị tài liệu, vật dụng: 2 ngày – 48 giờ - (11-13/5).
-	Kiểm tra - chọn lựa – bổ sung lần cuối trước khi thực hiện công việc: 5 ngày – 120 giờ - (13-17/5).
-•	Thực hiện công việc: 	
-	Thiết kế bản báo cáo trên Microsoft Sway: 3 ngày – 72 giờ - (18-20/5).
-	Xây dựng video giới thiệu dự án: 4 ngày – 96 giờ - (20-24/5).
-	Sử dụng github để tạo trang web giới thiệu dự án: 5 ngày – 120 giờ - (24-29/5).
-	Kiểm tra – bổ sung lần cuối: 2 ngày – 48 giờ - (29-31/5).
-	Lên ý tưởng - thực hiện thuyết trình dự án: 3 ngày – 72 giờ - (1-3/6).
+## Thời gian – Tiến độ thực hiện dự án:	
+Chuẩn bị dự án:Chọn chủ đề: 1 ngày – 24 giờ - (6-7/5).
+Lên ý tưởng: 3 ngày – 72 giờ - (7-10/5).
+Phân công công việc: 1 ngày – 24 giờ - (10-11/5).
+Chuẩn bị tài liệu, vật dụng: 2 ngày – 48 giờ - (11-13/5).
+Kiểm tra - chọn lựa – bổ sung lần cuối trước khi thực hiện công việc: 5 ngày – 120 giờ - (13-17/5).
+Thực hiện công việc: 	
+Thiết kế bản báo cáo trên Microsoft Sway: 3 ngày – 72 giờ - (18-20/5).
+Xây dựng video giới thiệu dự án: 4 ngày – 96 giờ - (20-24/5).
+Sử dụng github để tạo trang web giới thiệu dự án: 5 ngày – 120 giờ - (24-29/5).
+Kiểm tra – bổ sung lần cuối: 2 ngày – 48 giờ - (29-31/5).
+Lên ý tưởng - thực hiện thuyết trình dự án: 3 ngày – 72 giờ - (1-3/6).
