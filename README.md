@@ -57,7 +57,9 @@ Nhờ những lợi ích to lớn đem lại, quản lý doanh nghiệp bằng h
 +cụ thể hơn là sử dụng những công nghệ và dịch vụ Internet để lựa chọn thông tin, kết nối với và chia sẻ nguồn thông tin giữa các doanh nghiệp, khách hàng, nhà cung cấp,…Thông qua hệ thống quản lý của doanh nghiệp , meeting , có thể đưa doanh nghiệp lên tầm cao mới, kinh doanh toàn cầu và thực thi được những chiến lược kinh doanh đạt được hiệu quả cao nhất.
 ## Thời gian – Tiến độ thực hiện dự án:	
 
-Chuẩn bị dự án:Chọn chủ đề: 1 ngày – 24 giờ - (6-7/5).
+Chuẩn bị dự án:
+
+Chọn chủ đề: 1 ngày – 24 giờ - (6-7/5).
 
 Lên ý tưởng: 3 ngày – 72 giờ - (7-10/5).
 
@@ -77,4 +79,3 @@ Sử dụng github để tạo trang web giới thiệu dự án: 5 ngày – 12
 
 Kiểm tra – bổ sung lần cuối: 2 ngày – 48 giờ - (29-31/5).
 
-Lên ý tưởng - thực hiện thuyết trình dự án: 3 ngày – 72 giờ - (1-3/6).
