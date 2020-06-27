@@ -11,7 +11,8 @@ Không thể phủ nhận những lợi ích mà công nghệ mang lại cho cá
 -Tạo tác phong làm việc chuyên nghiệp
 Đảm bảo sự bảo mật trong lưu trữ dữ liệu
 
- ## Quản lý doanh nghiệp theo hệ thống đem lại lợi ích gì so với quản lý rời rạc?
+
+## Quản lý doanh nghiệp theo hệ thống đem lại lợi ích gì so với quản lý rời rạc?
  
 -Tính đồng bộ trong việc quản lý và lưu trữ thông tin, dữ liệu
 
